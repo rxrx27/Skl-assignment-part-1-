@@ -1,0 +1,6 @@
+{
+  "name": "SKL 101 AI Med",
+  "description": "Grounded AI learning assistant for SKL 101: Fundamentals of AI in Healthcare for medical students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
